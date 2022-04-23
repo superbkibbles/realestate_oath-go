@@ -1,4 +1,4 @@
-module github.com/superbkibbles/realestate_oauh-go
+module github.com/superbkibbles/realestate_oauth-go
 
 go 1.16
 
